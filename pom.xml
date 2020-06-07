@@ -8,7 +8,7 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fr.ensim.architecture</groupId>
+	<groupId>com.fr.ensim.archiLog</groupId>
 	<artifactId>tp01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TP_note_ArchiLog_v2</name>
